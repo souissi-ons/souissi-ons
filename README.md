@@ -28,7 +28,7 @@ Curieuse et engagée, j’explore sans cesse de nouvelles approches pour renforc
 ### 📊 Data Science & IA
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" />
-  <b>Librairies :</b> Scikit-learn, Pandas, NumPy, Matplotlib, Streamlit, OpenCV, DeepFace
+  <b>Bibliothèques :</b> Scikit-learn, Pandas, NumPy, Matplotlib, Streamlit, OpenCV, DeepFace
 </p>
 
 ### 🧩 Bases de données
